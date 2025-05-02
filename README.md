@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Kawzmp3/Kawzmp3/blob/main/assets/profile-icon.png?raw=true](https://media.licdn.com/dms/image/v2/D4E03AQG9ebfWTHgvew/profile-displayphoto-shrink_800_800/B4EZYSKa5cHcAc-/0/1744061444188?e=1751500800&v=beta&t=OmWEAlKBW8IBSdHzBwDZ6G_8L_KSxOylEO9U18CVSYE" alt="Luis Rincon Logo" width="150" height="150"/>
-</div>
+
 
 <h1 align="center">Hi, I'm Luis</h1>
 
@@ -16,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kawzmp3&theme=onedark&no-bg=true&rank=-?&column=6" alt="Kawzmp3's Trophies" />
-</p>
 
 ---
 
