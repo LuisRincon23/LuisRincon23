@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/luisangelrincon/">
     <img src="https://img.shields.io/badge/LinkedIn-luisangelrincon-blue?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:luisangelrincon@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Luis-orange?logo=gmail" alt="Email Badge"/>
+  <a href="mailto:lrincon2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lrincon2023@gmail.com-orange?logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
