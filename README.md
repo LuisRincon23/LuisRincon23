@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/LuisRincon23">
-    <img src="https://img.shields.io/badge/GitHub-Kawzmp3-black?logo=github" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-LuisRincon23-black?logo=github" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/luisangelrincon/">
     <img src="https://img.shields.io/badge/LinkedIn-luisangelrincon-blue?logo=linkedin" alt="LinkedIn Badge"/>
