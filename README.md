@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Luis</h1>
 
 <p align="center">
-  <a href="https://github.com/Kawzmp3">
+  <a href="https://github.com/LuisRincon23">
     <img src="https://img.shields.io/badge/GitHub-Kawzmp3-black?logo=github" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/luisangelrincon/">
